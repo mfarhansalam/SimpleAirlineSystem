@@ -1,0 +1,7 @@
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.csprojAssemblyReference.cache
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\bin\Debug\AirlineReservationSystem.exe.config
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\bin\Debug\AirlineReservationSystem.exe
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\bin\Debug\AirlineReservationSystem.pdb
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.exe
+C:\Users\CUSTOM PC\source\repos\mini projek\AirlineReservationSystem\AirlineReservationSystem\obj\Debug\AirlineReservationSystem.pdb
